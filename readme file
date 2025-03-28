@@ -1,1 +1,38 @@
+# EmployWise User Management
 
+A modern React application for user management built with React, TypeScript, and Tailwind CSS.
+
+## Features
+
+- 🔐 User Authentication
+- 👥 User Management (CRUD operations)
+- 📱 Responsive Design
+- ⚡ Fast Performance
+- 🎨 Modern UI/UX
+
+## Login Credentials
+
+- Email: eve.holt@reqres.in
+- Password: cityslicka
+
+## Tech Stack
+
+- **Framework**: React 18 with TypeScript
+- **Routing**: React Router v6
+- **Styling**: Tailwind CSS
+- **HTTP Client**: Axios
+- **Icons**: Lucide React
+- **Notifications**: React Hot Toast
+- **Build Tool**: Vite
+- **API**: ReqRes API
+
+## Project Structure
+
+```
+src/
+├── components/         # Reusable components
+├── pages/             # Page components
+├── services/          # API services
+├── types/             # TypeScript types
+└── App.tsx            # Main application component
+```
